@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:video_player] C:\College\eox\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-17:12
+MERGED from [:sqflite] C:\College\eox\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] C:\College\eox\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_webrtc] C:\College\eox\build\flutter_webrtc\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_android_pip] C:\College\eox\build\flutter_android_pip\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\e8379ceea7d493f67046324face77680\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\78e2c2dd9a6c02a82aea4cd28f4d7472\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\44f4368547c72ffd5b3a915718fd7d09\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\bde52b768c10bf637382d19570e82ab7\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3d7abd3655f26a84abb5d4a3db5c70bc\AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\a116662db44e95cab8257ec53392bb62\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webrtc:google-webrtc:1.0.26885] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26885.aar\a758b6abaf56948047af2fee83649184\AndroidManifest.xml:11:1-14:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\702636710e0b2121fe6f7f150d3fe60d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a0d16070f1f365bdba9b9413d833c20\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b1629b20e8c704d77f8be1900f315c29\AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\9ccf0edf9ad832ab5bee5b4057208121\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\253009d88221b411ee04e26ca07ea9ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\738062355d83a20bc0d3eda70dfd9da7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b3f9342e78ea9680619985e45eb88ba6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15cdd271d43a79cbb51a12e4c924b83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d12bbaaf887c6a223a0b21b89a0b16bc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d856b2417de27b5b96827bef97f0c706\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e05b0d9ea7e7de0aebd79a501cadf551\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\528c19b1efa4c9b94655baa3c999abed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98ad2d8d17ad6aadb1468cab440adfe9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\410fcac50170ed0e87452b4e00bcf3b6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dd7d85cad5020d628fd36f3784daf85b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\368fc6dbb3ee950c4bc347c05e5744e3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:2:5-30
+		INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:6:5-65
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-65
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\bde52b768c10bf637382d19570e82ab7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\bde52b768c10bf637382d19570e82ab7\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:12:22-77
+application
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:19:5-42:19
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-15:19
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-15:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\a116662db44e95cab8257ec53392bb62\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\a116662db44e95cab8257ec53392bb62\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\9ccf0edf9ad832ab5bee5b4057208121\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\9ccf0edf9ad832ab5bee5b4057208121\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:21:9-28
+	android:icon
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:22:9-43
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:20:9-57
+activity#com.example.eox.MainActivity
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:23:9-41:20
+	android:launchMode
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:25:13-43
+	android:hardwareAccelerated
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:28:13-47
+	android:windowSoftInputMode
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:27:13-144
+	android:theme
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:24:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:34:13-36:40
+	android:value
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:36:17-37
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:35:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:37:13-40:29
+action#android.intent.action.MAIN
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:38:17-68
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:39:17-76
+	android:name
+		ADDED from C:\College\eox\android\app\src\main\AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+MERGED from [:video_player] C:\College\eox\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:video_player] C:\College\eox\build\video_player\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:sqflite] C:\College\eox\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\College\eox\build\sqflite\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\College\eox\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\College\eox\build\path_provider\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] C:\College\eox\build\flutter_webrtc\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webrtc] C:\College\eox\build\flutter_webrtc\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_android_pip] C:\College\eox\build\flutter_android_pip\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_android_pip] C:\College\eox\build\flutter_android_pip\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\e8379ceea7d493f67046324face77680\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-hls-2.8.0.aar\e8379ceea7d493f67046324face77680\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\78e2c2dd9a6c02a82aea4cd28f4d7472\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-dash-2.8.0.aar\78e2c2dd9a6c02a82aea4cd28f4d7472\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\44f4368547c72ffd5b3a915718fd7d09\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-smoothstreaming-2.8.0.aar\44f4368547c72ffd5b3a915718fd7d09\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\bde52b768c10bf637382d19570e82ab7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.8.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\exoplayer-core-2.8.0.aar\bde52b768c10bf637382d19570e82ab7\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3d7abd3655f26a84abb5d4a3db5c70bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\3d7abd3655f26a84abb5d4a3db5c70bc\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\a116662db44e95cab8257ec53392bb62\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\a116662db44e95cab8257ec53392bb62\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webrtc:google-webrtc:1.0.26885] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26885.aar\a758b6abaf56948047af2fee83649184\AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.26885] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\google-webrtc-1.0.26885.aar\a758b6abaf56948047af2fee83649184\AndroidManifest.xml:13:3-72
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\702636710e0b2121fe6f7f150d3fe60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\702636710e0b2121fe6f7f150d3fe60d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a0d16070f1f365bdba9b9413d833c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\6a0d16070f1f365bdba9b9413d833c20\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b1629b20e8c704d77f8be1900f315c29\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b1629b20e8c704d77f8be1900f315c29\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\9ccf0edf9ad832ab5bee5b4057208121\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\9ccf0edf9ad832ab5bee5b4057208121\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\253009d88221b411ee04e26ca07ea9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\253009d88221b411ee04e26ca07ea9ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\738062355d83a20bc0d3eda70dfd9da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\738062355d83a20bc0d3eda70dfd9da7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b3f9342e78ea9680619985e45eb88ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\b3f9342e78ea9680619985e45eb88ba6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15cdd271d43a79cbb51a12e4c924b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a15cdd271d43a79cbb51a12e4c924b83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d12bbaaf887c6a223a0b21b89a0b16bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\d12bbaaf887c6a223a0b21b89a0b16bc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d856b2417de27b5b96827bef97f0c706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\d856b2417de27b5b96827bef97f0c706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e05b0d9ea7e7de0aebd79a501cadf551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\e05b0d9ea7e7de0aebd79a501cadf551\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\528c19b1efa4c9b94655baa3c999abed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\528c19b1efa4c9b94655baa3c999abed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98ad2d8d17ad6aadb1468cab440adfe9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\98ad2d8d17ad6aadb1468cab440adfe9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\410fcac50170ed0e87452b4e00bcf3b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\410fcac50170ed0e87452b4e00bcf3b6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dd7d85cad5020d628fd36f3784daf85b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\dd7d85cad5020d628fd36f3784daf85b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\368fc6dbb3ee950c4bc347c05e5744e3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\edikr_000\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\368fc6dbb3ee950c4bc347c05e5744e3\AndroidManifest.xml:20:5-44
+INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\College\eox\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\College\eox\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\College\eox\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\College\eox\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:9-91
+	android:name
+		ADDED from [:barcode_scan] C:\College\eox\build\barcode_scan\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:19-88
